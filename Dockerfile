@@ -10,7 +10,7 @@ COPY . app.py /app/
 
 ## Step 3:
 # Install packages from requirements.txt
-RUN pip install --no-cache-dir --upgrade pip=21.1.2 &&\ 
+RUN pip install --no-cache-dir --upgrade pip==21.1.2 &&\ 
     pip install --no-cache-dir -r requirements.txt
 # hadolint ignore=DL3013
 
