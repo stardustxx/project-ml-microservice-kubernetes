@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/gh/stardustxx/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
